@@ -18,7 +18,7 @@ For those who want to contribute, just fork or download as usual!
 
 Clone the repository
 
-    git clone git@github.com:handokoadjipangestu/project-learn-bwa-node-staycation-frontend.git
+    git clone git@github.com:handokoadjipangestu/slicing-day-1-react.git
 
 ## Usage example
 
